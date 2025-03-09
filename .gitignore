@@ -13,3 +13,4 @@ vlerick-2024
 example data/MAI-2023 dump/
 .DS_Store
 .python-version
+vectorstore/*
